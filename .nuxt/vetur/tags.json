@@ -1,0 +1,23 @@
+{
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "About": {
+    "description": "Auto imported from components/about/index.vue"
+  },
+  "IndexFooter": {
+    "description": "Auto imported from components/index/Footer.vue"
+  },
+  "IndexHeader": {
+    "description": "Auto imported from components/index/Header.vue"
+  },
+  "Index": {
+    "description": "Auto imported from components/index/Index.vue"
+  },
+  "IndexLandingPage": {
+    "description": "Auto imported from components/index/LandingPage.vue"
+  }
+}

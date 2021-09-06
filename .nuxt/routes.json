@@ -1,0 +1,16 @@
+[
+  {
+    "name": "gioi-thieu",
+    "path": "/gioi-thieu",
+    "component": "E:\\\\nguyenduclai\\\\1989smedia\\\\pages\\\\gioi-thieu\\\\index.vue",
+    "chunkName": "pages/gioi-thieu/index",
+    "_name": "_3ebf23bf"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "E:\\\\nguyenduclai\\\\1989smedia\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1cee6e53"
+  }
+]
