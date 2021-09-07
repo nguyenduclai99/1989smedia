@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/bang-gia-dich-vu", {data:[{}],fetch:{},mutations:void 0});
