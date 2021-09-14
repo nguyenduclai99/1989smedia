@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/dang-ky", {data:[{}],fetch:{},mutations:[]});
